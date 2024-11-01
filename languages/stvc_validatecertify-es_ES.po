@@ -1,0 +1,366 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-03 02:04-0500\n"
+"PO-Revision-Date: 2024-09-03 02:06-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: ValidateCertify-Free.php:61
+msgid ""
+"With ValidateCertify Free, you can guarantee the authenticity and veracity "
+"of the certificates issued, providing confidence to your students and those "
+"who validate them. Simplify the verification process and improve the "
+"experience of your users with ValidateCertify. Load your certificate base "
+"and validate them with the code from your website."
+msgstr ""
+"Con ValidateCertify Free, puedes garantizar la autenticidad y veracidad de "
+"los certificados emitidos, brindando confianza a tus estudiantes y a quienes "
+"los validan. Simplifique el proceso de verificación y mejore la experiencia "
+"de sus usuarios con ValidateCertify. Cargue su base de certificados y "
+"valídelos con el código de su sitio web."
+
+#: admin/partials/class-stvc-admin-dashboard.php:17
+msgid "ValidateCertify Free"
+msgstr "ValidateCertify Free"
+
+#: admin/partials/class-stvc-admin-dashboard.php:30
+msgid "Access your tools"
+msgstr "Accede a tus herramientas"
+
+#: admin/partials/class-stvc-admin-dashboard.php:33
+msgid "Add a certificate."
+msgstr "Agregar Nuevo Certificado"
+
+#: admin/partials/class-stvc-admin-dashboard.php:34
+#: includes/class-stvc-menu.php:80 includes/class-stvc-notification.php:21
+msgid "Add Certificate"
+msgstr "Añadir Certificado"
+
+#: admin/partials/class-stvc-admin-dashboard.php:37
+msgid "Review ShortCorde."
+msgstr "Reseña ShortCorde."
+
+#: admin/partials/class-stvc-admin-dashboard.php:38
+#: admin/partials/class-stvc-admin-display.php:24
+#: includes/class-stvc-menu.php:45 includes/class-stvc-menu.php:46
+#: includes/class-stvc-menu.php:459 includes/class-stvc-menu.php:463
+msgid "Tools"
+msgstr "Herramientas"
+
+#: admin/partials/class-stvc-admin-display.php:11
+msgid "Documentation"
+msgstr "Documentación"
+
+#: admin/partials/class-stvc-admin-display.php:12
+msgid "Rate the plugin ★★★★★"
+msgstr "Valora el plugin con ★★★★★"
+
+#: admin/partials/class-stvc-admin-display.php:49
+msgid "Have you enjoyed ValidateCertify? Please leave us a review "
+msgstr ""
+"¿Estás disfrutando ValidateCertify? Por favor, déjanos una valoración de "
+
+#: admin/partials/class-stvc-admin-display.php:51
+msgid "We really appreciate your support!"
+msgstr " ¡De verdad que agradecemos tu apoyo!"
+
+#: admin/partials/class-stvc-admin-display.php:62
+msgid "Version"
+msgstr "Versión"
+
+#: admin/partials/class-stvc-admin-display.php:62
+msgid "Version ValidateCertify Free"
+msgstr "Versión ValidateCertify Free"
+
+#: admin/partials/class-stvc-shortcode.php:29 includes/class-stvc-menu.php:310
+#: includes/class-stvc-menu.php:331 includes/class-stvc-menu.php:409
+#: includes/class-stvc-menu.php:447
+msgid "Code:"
+msgstr "Código:"
+
+#: admin/partials/class-stvc-shortcode.php:30 includes/class-stvc-menu.php:277
+#: includes/class-stvc-menu.php:405
+msgid "Name:"
+msgstr "Nombre:"
+
+#: admin/partials/class-stvc-shortcode.php:31 includes/class-stvc-menu.php:281
+#: includes/class-stvc-menu.php:406
+msgid "Last Name:"
+msgstr "Apellido:"
+
+#: admin/partials/class-stvc-shortcode.php:32 includes/class-stvc-menu.php:285
+#: includes/class-stvc-menu.php:407
+msgid "Course:"
+msgstr "Curso:"
+
+#: admin/partials/class-stvc-shortcode.php:33
+msgid "Date of issue:"
+msgstr "Fecha de emisión:"
+
+#: admin/partials/class-stvc-shortcode.php:37
+msgid "You want to perform another search?"
+msgstr "Quieres realizar otra búsqueda"
+
+#: admin/partials/class-stvc-shortcode.php:43
+msgid "The code entered is not valid. Please enter a valid code."
+msgstr ""
+"El código introducido no es válido. Por favor, introduzca un código válido."
+
+#: admin/partials/class-stvc-shortcode.php:49
+msgid "Please enter a Valid Certificate Code"
+msgstr "Por favor ingrese un código de certificado válido"
+
+#: admin/partials/class-stvc-shortcode.php:56 includes/class-stvc-menu.php:89
+#: includes/class-stvc-menu.php:311 includes/class-stvc-menu.php:332
+#: includes/class-stvc-menu.php:448
+msgid "Enter the code here"
+msgstr "Introduce el código aquí"
+
+#: admin/partials/class-stvc-shortcode.php:57
+msgid "Consult"
+msgstr "Consultar"
+
+#: includes/class-stvc-menu.php:11 includes/class-stvc-menu.php:12
+msgid "ValidateCertify"
+msgstr "ValidateCertify"
+
+#: includes/class-stvc-menu.php:21 includes/class-stvc-menu.php:22
+#: includes/class-stvc-menu.php:186 includes/class-stvc-menu.php:190
+msgid "Add New Certificate"
+msgstr "Agregar Nuevo Certificado"
+
+#: includes/class-stvc-menu.php:29 includes/class-stvc-menu.php:30
+msgid "Edit Certificate"
+msgstr "Editar Certificado"
+
+#: includes/class-stvc-menu.php:37 includes/class-stvc-menu.php:38
+msgid "Delete Certificate"
+msgstr "Eliminar Certificado"
+
+#: includes/class-stvc-menu.php:76
+msgid "Certificates Issued"
+msgstr "Certificados Emitidos"
+
+#: includes/class-stvc-menu.php:79
+msgid "Certificate Base"
+msgstr "Base de Certificado"
+
+#: includes/class-stvc-menu.php:88
+msgid "Search by Code:"
+msgstr "Buscar por código:"
+
+#: includes/class-stvc-menu.php:90
+msgid "Search"
+msgstr "Buscar"
+
+#: includes/class-stvc-menu.php:95
+msgid "Show groups of:"
+msgstr "Mostrar grupos de:"
+
+#: includes/class-stvc-menu.php:105 includes/class-stvc-menu.php:204
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/class-stvc-menu.php:106 includes/class-stvc-menu.php:210
+msgid "Last Name"
+msgstr "Apellido"
+
+#: includes/class-stvc-menu.php:107 includes/class-stvc-menu.php:216
+msgid "Course"
+msgstr "Curso"
+
+#: includes/class-stvc-menu.php:108 includes/class-stvc-menu.php:222
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/class-stvc-menu.php:109 includes/class-stvc-menu.php:198
+msgid "Code"
+msgstr "Código"
+
+#: includes/class-stvc-menu.php:131
+#, php-format
+msgid "%02s certificates"
+msgstr "%02s certificados"
+
+#: includes/class-stvc-menu.php:140
+#, php-format
+msgid "Page %02s de %02s"
+msgstr "Página %02s de %02s"
+
+#: includes/class-stvc-menu.php:160
+msgid "Acceso denegado"
+msgstr "Acceso denegado"
+
+#: includes/class-stvc-menu.php:182
+msgid "The certificate has been saved correctly."
+msgstr "El certificado se ha guardado correctamente."
+
+#: includes/class-stvc-menu.php:192
+msgid "Add a new record to the certificate database"
+msgstr "Agregar un nuevo registro a la base de datos de certificados"
+
+#: includes/class-stvc-menu.php:227
+msgid "Save Certificate"
+msgstr "Guardar certificado"
+
+#: includes/class-stvc-menu.php:258
+msgid "Certificate modified successfully!"
+msgstr "¡Certificado modificado exitosamente!"
+
+#: includes/class-stvc-menu.php:264 includes/class-stvc-menu.php:268
+#: includes/class-stvc-menu.php:299 includes/class-stvc-menu.php:303
+#: includes/class-stvc-menu.php:320 includes/class-stvc-menu.php:324
+msgid "Edit Certificates"
+msgstr "Editar certificados"
+
+#: includes/class-stvc-menu.php:270
+msgid ""
+"Update your certificate data, remember that once done, previous data will be "
+"lost."
+msgstr ""
+"Actualiza los datos de tu certificado, recuerda que una vez hecho, se "
+"perderán los datos anteriores."
+
+#: includes/class-stvc-menu.php:289 includes/class-stvc-menu.php:408
+msgid "Date:"
+msgstr "Fecha"
+
+#: includes/class-stvc-menu.php:292
+msgid "Update certificate"
+msgstr "Actualizar certificado"
+
+#: includes/class-stvc-menu.php:293 includes/class-stvc-menu.php:414
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/class-stvc-menu.php:305
+msgid "The certificate is not valid. Please enter a "
+msgstr "El certificado no es válido. Por favor ingrese un "
+
+#: includes/class-stvc-menu.php:305
+msgid "Valid Certificate Code "
+msgstr "Código de certificado válido "
+
+#: includes/class-stvc-menu.php:305
+msgid "to modify names, last names, courses and/or issue date."
+msgstr "modificar nombres, apellidos, cursos y/o fecha de emisión."
+
+#: includes/class-stvc-menu.php:313 includes/class-stvc-menu.php:334
+msgid "Search certificate"
+msgstr "Buscar certificado"
+
+#: includes/class-stvc-menu.php:326
+msgid ""
+"Enter the Certificate code to modify, to update the names, last name, "
+"courses and/or date of issue."
+msgstr ""
+"Ingrese el código del certificado a modificar, para actualizar los nombres, "
+"apellido, cursos y/o fecha de emisión."
+
+#: includes/class-stvc-menu.php:344
+msgid "Access denied"
+msgstr "Acceso denegado"
+
+#: includes/class-stvc-menu.php:360 includes/class-stvc-menu.php:364
+#: includes/class-stvc-menu.php:374 includes/class-stvc-menu.php:378
+#: includes/class-stvc-menu.php:397 includes/class-stvc-menu.php:401
+#: includes/class-stvc-menu.php:413 includes/class-stvc-menu.php:422
+#: includes/class-stvc-menu.php:426 includes/class-stvc-menu.php:436
+#: includes/class-stvc-menu.php:440
+msgid "Delete Certificates"
+msgstr "Eliminar certificados"
+
+#: includes/class-stvc-menu.php:366
+msgid "The certificate was removed from the database."
+msgstr "El certificado fue eliminado de la base de datos."
+
+#: includes/class-stvc-menu.php:368
+msgid "Return"
+msgstr "Volver"
+
+#: includes/class-stvc-menu.php:380
+msgid "Could not delete certificate, an error occurred."
+msgstr "No se pudo eliminar el certificado, se produjo un error."
+
+#: includes/class-stvc-menu.php:383 includes/class-stvc-menu.php:429
+msgid "Search again"
+msgstr "Busca de nuevo"
+
+#: includes/class-stvc-menu.php:403
+msgid "Are you sure you want to delete the following certificate?"
+msgstr "¿Está seguro de que desea eliminar el siguiente certificado?"
+
+#: includes/class-stvc-menu.php:428
+msgid "No certificate was found with that code, please enter a valid code."
+msgstr ""
+"No se encontró ningún certificado con ese código, ingrese un código válido."
+
+#: includes/class-stvc-menu.php:442
+msgid ""
+"Enter the Certificate code to delete, once deleted it cannot be recovered."
+msgstr ""
+"Ingrese el código del Certificado para eliminar, una vez eliminado no se "
+"puede recuperar."
+
+#: includes/class-stvc-menu.php:450
+msgid "Search Certificates"
+msgstr "Buscar certificados"
+
+#: includes/class-stvc-menu.php:465
+msgid "ShortCode ValidateCertify"
+msgstr "ShortCode ValidateCertify"
+
+#: includes/class-stvc-menu.php:466
+msgid ""
+"Add the shortcode on the page where the certificates will be validated, the "
+"search will be by code."
+msgstr ""
+"Agrega el shortcode en la página donde se validarán los certificados, la "
+"búsqueda será por código."
+
+#: includes/class-stvc-menu.php:477
+msgid "Copy Shortcode"
+msgstr "Copiar Shortcode"
+
+#: includes/class-stvc-menu.php:486
+msgid "Shortcode copied to clipboard"
+msgstr "Shortcode copiado al portapapeles"
+
+#: includes/class-stvc-notification.php:18
+msgid "Thank you for installing ValidateCertify Free!"
+msgstr "¡Gracias por instalar ValidateCertify Free!"
+
+#: includes/class-stvc-notification.php:19
+msgid ""
+"The new version loaded with internal improvements, a better visual "
+"appearance, we include the languages English (United States), Spanish and "
+"Portuguese. We would like to know your opinion about the improvements we "
+"made just for you. Help us better serve you and others by simply leaving a "
+"review."
+msgstr ""
+"La nueva versión cargada con mejoras internas, una mejor apariencia visual, "
+"incluimos los idiomas inglés (Estados Unidos), español y portugués. Nos "
+"gustaría saber tu opinión sobre las mejoras que hicimos solo para ti. "
+"Ayúdenos a brindarle un mejor servicio a usted y a los demás simplemente "
+"dejando una reseña."
+
+#: includes/class-stvc-notification.php:22
+msgid "Maybe later"
+msgstr "Quizás mas tarde"
+
+#: includes/class-stvc-notification.php:23
+msgid "Leave a review"
+msgstr "Dejar un comentario"
